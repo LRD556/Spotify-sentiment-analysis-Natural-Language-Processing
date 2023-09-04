@@ -1,0 +1,2 @@
+# Spotify-sentiment-analysis-Natural-Language-Processing
+This is a project that was created to identify the overall sentiment of the different users of the Spotify application on the play store. It is written in python and uses the Natural language toolkit library as well as machine learning algorithms like the random forest and naive bayes classifier to classify the different comments. The created model is then tested with some sample coments at the end to showcase its capabilities. 
